@@ -2,6 +2,8 @@
 
 Esta é a minha **página pessoal de projetos**, criada com o objetivo de apresentar quem sou, destacar os principais projetos que estou desenvolvendo e organizar meu portfólio de forma prática e acessível. O site foi desenvolvido utilizando **HTML**, **CSS** e **Tailwind CSS**, com foco em design limpo, responsivo e funcional.
 
+🔗 **Acesse o site online:** [minhapagina-dusky.vercel.app](https://minhapagina-dusky.vercel.app)
+
 ## 🎯 Propósito do Projeto
 
 - 🧠 Demonstrar minhas **skills como desenvolvedor**
